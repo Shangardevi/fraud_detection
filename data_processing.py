@@ -9,3 +9,5 @@ def model2():
 
 def model3():
     print("add 3")
+
+print("model 12 is used:")
